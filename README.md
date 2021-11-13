@@ -11,14 +11,6 @@ execute yarn ou npm install para instalar todas as dependências
 
 ```
 
-## ☕ Executando as  migrations
-
-Para executar as migrations, siga estas etapas:
-
-```
-execute yarn typeorm migration:run
-```
-
 ## ☕ Usando backend
 
 Para usar backend, siga estas etapas:
